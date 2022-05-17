@@ -1,0 +1,3 @@
+###Requirements without a specific version
+datetime
+cowsay
