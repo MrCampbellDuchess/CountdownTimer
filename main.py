@@ -32,7 +32,7 @@ while True:
     str(Len2) + " " + Len2Name + "\n " +
     str(Len3) + " " + Len3Name + "\n " +
     str(Len4) + " " + Len4Name + "\n " + 
-    ' until Summer Break')
+    " until " + str(eventName))
     time.sleep(1)
     clear()
 cowsay.tux(FinalMessage)
